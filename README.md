@@ -1,4 +1,3 @@
-﻿
 # MDT112 Project : Get another the dreams
 
 ## สมาชิก
