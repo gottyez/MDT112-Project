@@ -14,10 +14,10 @@
 
 ## Physical Computing
 ### Perception
--การเคลื่อนไหวของวัตถุที่มีความร้อน
--จอทัชสกรีน
+- การเคลื่อนไหวของวัตถุที่มีความร้อน
+- จอทัชสกรีน
 ### Behavior
 -
 ### Manipulation
--buzzer
--touch screen display
+- buzzer
+- touch screen display
