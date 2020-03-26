@@ -23,4 +23,4 @@
 - touch screen display
 
 ##Flowchard
-[!alt]ไม่มีชื่อ Diagram.png
+[!alt](ไม่มีชื่อ Diagram.png)
