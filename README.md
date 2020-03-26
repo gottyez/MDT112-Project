@@ -21,3 +21,6 @@
 ### Manipulation
 - buzzer
 - touch screen display
+
+##Flowchard
+[!alt]ไม่มีชื่อ Diagram.png
