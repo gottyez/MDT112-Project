@@ -23,5 +23,5 @@
 - touch screen display
 
 ### Flowchart
-!.[alt text](https://github.com/gottyez/MDT112-Project/blob/master/Untitled%20Diagram.png)
+![alt text](https://github.com/gottyez/MDT112-Project/blob/master/Untitled%20Diagram.png)
 
