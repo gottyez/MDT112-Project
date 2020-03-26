@@ -22,5 +22,5 @@
 - buzzer
 - touch screen display
 
-##Flowchard
-[!alt](ไม่มีชื่อ Diagram.png)
+##Flowchart
+!.[alt text](https://github.com/gottyez/MDT112-Project/blob/master/images/Untitled%20Diagram.png)
